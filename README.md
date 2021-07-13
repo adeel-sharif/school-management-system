@@ -141,21 +141,21 @@ crontab -e
 # Screenshot
 ============
 
-<img src="screenshoot/Screenshot(21).png" >
-<img src="screenshoot/Screenshot(22).png" >
-<img src="screenshoot/Screenshot(23).png" >
-<img src="screenshoot/Screenshot(24).png" >
-<img src="screenshoot/Screenshot(25).png" >
-<img src="screenshoot/Screenshot(26).png" >
-<img src="screenshoot/Screenshot(27).png" >
-<img src="screenshoot/Screenshot(28).png" >
-<img src="screenshoot/Screenshot(29).png" >
-<img src="screenshoot/Screenshot(30).png" >
-<img src="screenshoot/Screenshot(31).png" >
-<img src="screenshoot/Screenshot(32).png" >
-<img src="screenshoot/Screenshot(34).png" >
-<img src="screenshoot/Screenshot(35).png" >
-<img src="screenshoot/Screenshot(33).png" >
+<img src="Screenshot(21).png" >
+<img src="Screenshot(22).png" >
+<img src="Screenshot(23).png" >
+<img src="Screenshot(24).png" >
+<img src="Screenshot(25).png" >
+<img src="Screenshot(26).png" >
+<img src="Screenshot(27).png" >
+<img src="Screenshot(28).png" >
+<img src="Screenshot(29).png" >
+<img src="Screenshot(30).png" >
+<img src="Screenshot(31).png" >
+<img src="Screenshot(32).png" >
+<img src="Screenshot(34).png" >
+<img src="Screenshot(35).png" >
+<img src="Screenshot(33).png" >
 
 System Dependencies
 ===================
